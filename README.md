@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is Alex :))</h1>
-<h3 align="center">Aim to be ML-Software Engineer</h3>
+<h3 align="center">I aim to be ML-Software Engineer</h3>
 
 <br>
 
