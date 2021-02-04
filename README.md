@@ -3,7 +3,7 @@
 
 <br>
 
-💻 I am contributing to <a href="https://github.com/mlpack/mlpack"> mlpack </a> and <a href=""> Chest X-RAY abnormalities detection </a> competition on Kaggle.
+💻 I am contributing to <a href="https://github.com/mlpack/mlpack"> mlpack </a> and <a href="https://github.com/rxng8/VINDR-Competition"> Chest X-RAY abnormalities detection </a> competition on Kaggle.
 
 <br />
 
