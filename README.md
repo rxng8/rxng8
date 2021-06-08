@@ -13,6 +13,8 @@
 
 # Experience
 ## 📕 AI and Machine Learning:
+<details>
+  <summary> Click to expand </summary>
 
 📌 [**May 2021 - Present**]: Credit card OCR
   * Research and implement the algorithms for OCR.
@@ -66,8 +68,13 @@
   * Paper was accepted at AAAI 2021. [Link to paper](https://ojs.aaai.org/index.php/AAAI/article/view/17840)
   * [Github Repo](https://github.com/rxng8/GinRummyAlgorithm)
 
+</details>
+
 --------
 ## 📗 Software engineer:
+
+<details>
+<summary>Click to expand</summary>
 
 📌 [**March 2021 - Present**]:
   * Build mobilie application with React Native which warns users of early forest fire.
@@ -79,4 +86,4 @@
   * Perform dataset operations.
   * [Github Repo](https://github.com/forummlcb/topdup) 
 
-
+</details>
