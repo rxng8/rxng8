@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, this is Alex :))</h1>
 <h3 align="center">I aim to be ML-Software Engineer</h3>
 
-<br>
-
-💻 I am contributing to <a href="https://github.com/mlpack/mlpack"> mlpack </a> and <a href="https://github.com/rxng8/VINDR-Competition"> Chest X-RAY abnormalities detection </a> competition on Kaggle.
-
 <br />
 
 <div align="center">
@@ -13,3 +9,6 @@
 
 </div>
 
+<br>
+
+💻 I am contributing to <a href="https://github.com/mlpack/mlpack"> mlpack </a> and <a href="https://github.com/rxng8/VINDR-Competition"> Chest X-RAY abnormalities detection </a> competition on Kaggle.
