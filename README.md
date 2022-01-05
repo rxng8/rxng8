@@ -15,13 +15,19 @@
 ## 📕 AI and Machine Learning:
 <details>
   <summary> Click to expand </summary>
-
-📌 [**May 2021 - Present**]: Credit card OCR
+  
+📌 [**Dec 2021 - Present**]: Music Emotion Recognition Algorithm
+  * Research and compare deep learning models in the music emotion recognition task.
+  
+📌 [**Dec 2021 - Present**]: YOLO Algorithm Replication
+  * Replicate all version of YOLO training and evaluation algorithm.
+  
+📌 [**May 2021 - August 2021**]: Credit card OCR
   * Research and implement the algorithms for OCR.
   * Try out different methods: template matching, training with Tensorflow Object detection API, training YOLO, training darknet.
   * Build transfer learning model.
 
-📌 [**May 2021 - Present**]: Faster R-CNN Research and Implementation
+📌 [**May 2021 - Sep 2021**]: Faster R-CNN Research and Implementation
   * Code and research Faster R-CNN algorithm.
   * [Github Repo](https://github.com/rxng8/Faster-R-CNN-Research)
   * [Backlog](https://github.com/rxng8/Faster-R-CNN-Research#project-backlog)
