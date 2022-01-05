@@ -18,14 +18,17 @@
   
 📌 [**Dec 2021 - Present**]: Music Emotion Recognition Algorithm
   * Research and compare deep learning models in the music emotion recognition task.
+  * [Github Repo](https://github.com/rxng8/Music-Emotion-Recognition-Algorithm)
   
 📌 [**Dec 2021 - Present**]: YOLO Algorithm Replication
   * Replicate all version of YOLO training and evaluation algorithm.
+  * [Github Repo](https://github.com/rxng8/YOLO-Object-Detection-Algorithm)
   
 📌 [**May 2021 - August 2021**]: Credit card OCR
   * Research and implement the algorithms for OCR.
   * Try out different methods: template matching, training with Tensorflow Object detection API, training YOLO, training darknet.
   * Build transfer learning model.
+  * [Github Repo](https://github.com/rxng8/public-ocr-handler)
 
 📌 [**May 2021 - Sep 2021**]: Faster R-CNN Research and Implementation
   * Code and research Faster R-CNN algorithm.
