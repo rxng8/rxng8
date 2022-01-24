@@ -20,7 +20,7 @@
   * Research and compare deep learning models in the music emotion recognition task.
   * [Github Repo](https://github.com/rxng8/Music-Emotion-Recognition-Algorithm)
   
-📌 [**Dec 2021 - Present**]: YOLO Algorithm Replication
+📌 [**Dec 2021 - Jan 2022**]: YOLO Algorithm Replication
   * Replicate all version of YOLO training and evaluation algorithm.
   * [Github Repo](https://github.com/rxng8/YOLO-Object-Detection-Algorithm)
   
