@@ -15,6 +15,7 @@
 ## 📕 AI and Machine Learning:
 <details>
   <summary> Click to expand </summary>
+  
 📌 [**April 2022 - Present**]: Eye segmentation research
   * Replicate RITNet segmentation network for eye segmentation.
   * [Github Repo for RITNet Replication](https://github.com/rxng8/RITNet-Tensorflow)
