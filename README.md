@@ -15,8 +15,11 @@
 ## 📕 AI and Machine Learning:
 <details>
   <summary> Click to expand </summary>
+📌 [**April 2022 - Present**]: Eye segmentation research
+  * Replicate RITNet segmentation network for eye segmentation.
+  * [Github Repo for RITNet Replication](https://github.com/rxng8/RITNet-Tensorflow)
   
-📌 [**Dec 2021 - Present**]: Music Emotion Recognition Algorithm
+📌 [**Dec 2021 - Jan 2022**]: Music Emotion Recognition Algorithm
   * Research and compare deep learning models in the music emotion recognition task.
   * [Github Repo](https://github.com/rxng8/Music-Emotion-Recognition-Algorithm)
   
