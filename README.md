@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, this is Alex 🙆‍♂️</h1>
-<h3 align="center">I aim to be 🖥  ML Engineer and Industry Researcher 🖥 </h3>
+<h1 align="center">Hi 👋, this is Viet Nguyen 🙆‍♂️</h1>
+<h3 align="center">I aim to be 🖥 an AI/CV/RL Engineer and Researcher 🖥 </h3>
 
 <br />
 
