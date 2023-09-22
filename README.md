@@ -16,7 +16,7 @@
 <details>
   <summary> Click to expand </summary>
   
-📌 [**April 2022 - Present**]: Eye segmentation research
+📌 [**April 2022 - August 2022**]: Eye segmentation research
   * Replicate RITNet segmentation network for eye segmentation.
   * [Github Repo for RITNet Replication](https://github.com/rxng8/RITNet-Tensorflow)
   
@@ -88,8 +88,13 @@
 
 <details>
 <summary>Click to expand</summary>
+  
+📌 [**January 2023 - May 2023**]:
+  * Build a tensor computing library from scratch with GPU acceleration that operates on top of numpy.
+  * Same idea with [JAX](https://github.com/google/jax)
+  * [Github Repo](https://github.com/rxng8/gpu-numpy)
 
-📌 [**March 2021 - Present**]:
+📌 [**March 2021 - August 2021**]:
   * Build mobilie application with React Native which warns users of early forest fire.
   * [Google Play Link](https://play.google.com/store/apps/details?id=vnfis.com.vn.phscr_gla&hl=en&gl=US)
   * [Appstore Link](https://apps.apple.com/us/app/hotspot-gla/id1572979362) (will be updated in the future)
