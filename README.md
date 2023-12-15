@@ -16,14 +16,20 @@
 <details>
   <summary> Click to expand </summary>
 
+📌 [**May 2023 - Present**]: Event-based eye tracking research
+  * Designing a spiking neural network variant of the recurrent state space model for tracking eye features from dynamic vision sensor's event stream.
+  * Report to Meta's staff.
+
 📌 [**January 2023 - Present**]: Robotic research
   * Building a generative model for a reinforcement learning agent with an active inference based decision making system. Manuscript in preparation.
   * Building active inference agent for robotic tasks. Manuscript in preparation.
+  * Secure a $1,000 grant to purchase robotic equipment that supports the research.
 
 📌 [**April 2022 - November 2023**]: Eye segmentation research
-  * Develop new eye segmentation training algorithm. Manuscript under review.
+  * Develop new eye segmentation training algorithm that minimize the domain shift across different eye segmentation datasets. Manuscript under review.
   * Replicate RITNet segmentation network for eye segmentation.
-  * [Github Repo for RITNet Replication](https://github.com/rxng8/RITNet-Tensorflow)
+  * [Github Repo for RITNet Replication](https://github.com/rxng8/RITNet-Tensorflow).
+  * Report to Meta's staff.
   
 📌 [**Dec 2021 - Jan 2022**]: Music Emotion Recognition Algorithm
   * Research and compare deep learning models in the music emotion recognition task.
