@@ -15,8 +15,13 @@
 ## 📕 AI and Machine Learning:
 <details>
   <summary> Click to expand </summary>
-  
-📌 [**April 2022 - August 2022**]: Eye segmentation research
+
+📌 [**January 2023 - Present**]: Robotic research
+  * Building a generative model for a reinforcement learning agent with an active inference based decision making system. Manuscript in preparation.
+  * Building active inference agent for robotic tasks. Manuscript in preparation.
+
+📌 [**April 2022 - November 2023**]: Eye segmentation research
+  * Develop new eye segmentation training algorithm. Manuscript under review.
   * Replicate RITNet segmentation network for eye segmentation.
   * [Github Repo for RITNet Replication](https://github.com/rxng8/RITNet-Tensorflow)
   
