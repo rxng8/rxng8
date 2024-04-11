@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, this is Viet Nguyen 🙆‍♂️</h1>
-<h3 align="center">I aim to be 🖥 an AI/CV/RL Engineer and Researcher 🖥 </h3>
+<h1 align="center">Hi 👋, I am Viet Dung Nguyen 🙆‍♂️</h1>
+<h3 align="center">I aim to be 🖥 an ML Engineer and Researcher 🖥 </h3>
+<h3 align="center">My research focus spans Machine Learning, Computer Vision, Reinforcement Learning, and Robotics </h3>
 
 <br />
 
@@ -29,6 +30,7 @@
   * Develop new eye segmentation training algorithm that minimize the domain shift across different eye segmentation datasets. Manuscript under review.
   * Replicate RITNet segmentation network for eye segmentation.
   * [Github Repo for RITNet Replication](https://github.com/rxng8/RITNet-Tensorflow).
+  * [Github Repo for Deep Domain Adaptation published work](https://github.com/PerForm-Lab-RIT/domain-adaptation-eye-tracking).
   * Report to Meta's staff.
   
 📌 [**Dec 2021 - Jan 2022**]: Music Emotion Recognition Algorithm
