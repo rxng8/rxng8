@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Viet Dung Nguyen 🙆‍♂️</h1>
-<h3 align="center">I aim to be 🖥 an ML Engineer and Researcher 🖥 </h3>
-<h3 align="center">My research focus spans Machine Learning, Computer Vision, Reinforcement Learning, and Robotics </h3>
+<h3 align="center">I am 🖥 a ML Engineer and Researcher 🖥 </h3>
+<h3 align="center">My research focus spans Machine Learning, Computer Vision, Reinforcement Learning, and Robotics</h3>
 
 <br />
 
