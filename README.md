@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋, I am Viet Dung Nguyen 🙆‍♂️</h1>
-<h3 align="center">I am 🖥 a ML Engineer and Researcher 🖥 </h3>
-<h3 align="center">My research focus spans Machine Learning, Computer Vision, Reinforcement Learning, and Robotics</h3>
+<h1 align="center">Hi👋, I am Viet Dung Nguyen</h1>
+<h3 align="center">I am 🖥 an AI Scientist 🖥 </h3>
+<h3 align="center">My research spans Machine Learning, Computer Vision, Reinforcement Learning, and Robotics</h3>
+<p>
+  📣 Connect with me on:<br/><br/>
+  <a href="https://vietdung.me"><img src="https://img.shields.io/badge/My%20Website-grey?style=for-the-badge&logoColor=white"/></a>
+  <a href="mailto:alexvn.edu@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rxng8"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0008-8639-3138"><img src="https://img.shields.io/badge/ORCID-green?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+</p>
 
-<br />
-
-<div align="center">
-
+<!-- <div align="center">
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxng8)](https://github.com/anuraghazra/github-readme-stats)
+</div> -->
 
-</div>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rxng8&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rxng8&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=rxng8&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <img src="http://views.whatilearened.today/views/github/rxng8/views.svg"/>
+</p>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br>
 
-# Experience
+# Projects
 ## 📕 AI and Machine Learning:
 <details>
   <summary> Click to expand </summary>
