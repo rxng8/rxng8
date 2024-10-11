@@ -30,6 +30,12 @@
 <details>
   <summary> Click to expand </summary>
 
+📌 [**January 2022 - September 2024**]: Robust Active Inference
+  * Develop all pipelines and algorithms for an active inference agent that tackles sparse reward partially obsevable Markov decision processes (POMDPs). These POMDP environments have continuous action space, image-based observation, sparse reward setting, and varied goal. 
+  * [Github Repo for Robust Active Inference work](https://github.com/NACLab/robust-active-inference).
+  * [Website of the project](https://vietdung.me/publications/raif)
+  * [Video of the project](https://www.youtube.com/watch?v=4dH1D17ry4s)
+
 📌 [**May 2023 - Present**]: Event-based eye tracking research
   * Designing a spiking neural network variant of the recurrent state space model for tracking eye features from dynamic vision sensor's event stream.
   * Report to Meta's staff.
@@ -40,7 +46,7 @@
   * Secure a $1,000 grant to purchase robotic equipment that supports the research.
 
 📌 [**April 2022 - November 2023**]: Eye segmentation research
-  * Develop new eye segmentation training algorithm that minimize the domain shift across different eye segmentation datasets. Manuscript under review.
+  * Develop new eye segmentation training algorithm that minimize the domain shift across different eye segmentation datasets. Best paper award at ETRA 2024.
   * Replicate RITNet segmentation network for eye segmentation.
   * [Github Repo for RITNet Replication](https://github.com/rxng8/RITNet-Tensorflow).
   * [Github Repo for Deep Domain Adaptation published work](https://github.com/PerForm-Lab-RIT/domain-adaptation-eye-tracking).
