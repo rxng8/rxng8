@@ -35,6 +35,7 @@
   * [Github Repo for Robust Active Inference work](https://github.com/NACLab/robust-active-inference).
   * [Website of the project](https://vietdung.me/publications/raif)
   * [Video of the project](https://www.youtube.com/watch?v=4dH1D17ry4s)
+  * [Research project's preprint](https://arxiv.org/abs/2409.14216)
 
 📌 [**May 2023 - Present**]: Event-based eye tracking research
   * Designing a spiking neural network variant of the recurrent state space model for tracking eye features from dynamic vision sensor's event stream.
