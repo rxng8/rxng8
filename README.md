@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I am Viet Dung Nguyen</h1>
-<h3 align="center">I am an 🖥 AI/ML Engineer and Scientist 🖥 PhD Candidate @ <a href="https://www.rit.edu/">RIT</a></h3>
+<h3 align="center">I am an 🖥 AI / Robotics Engineer and Scientist 🖥 PhD Candidate @ <a href="https://www.rit.edu/">RIT</a></h3>
 <h3 align="center">My works spans different machine learning areas such as computer vision, natural language processing, reinforcement learning, and robotics</h3>
 <p>
   📣 Connect with me on:<br/><br/>
